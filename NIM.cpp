@@ -1,4 +1,4 @@
-//NIM dabs október 1997
+t@github.com:sveinnh11/INTOPrufa.git//NIM dabs október 1997
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
@@ -31,6 +31,7 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+cout << "eg heiti Sveinn Halldor Helgason og eg er i HR";
 	int val;
 	do
 	{
