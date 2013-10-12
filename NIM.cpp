@@ -31,7 +31,7 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
-cout << "eg heiti Sveinn Halldor Helgason og eg er i HR";
+cout << "eg heiti Sveinn Halldor Helgason og eg er i Háskólanum í Reykjavik";
 	int val;
 	do
 	{
